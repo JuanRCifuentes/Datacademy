@@ -2,18 +2,6 @@
 
 - Semana 2
 
-    - Los datos primitivos
-    - Convertir un tipo de dato a un tipo diferente
-    - Operadores lógicos y de comparación
-    - Tu primer programa: Conversor de monedas
-    - Construyendo el camino de un programa...
-    - Varios paises en el conversor de monedas
-    - Aprendiendo a no repetir codigo con funciones
-    - Modularizando nuestro conversor de monedas
-    - Trabajando con Strings
-    - Strings: Slices
-    - Proyecto: Palíndromo
-
     ## Los datos primitivos
 
     - Enteros

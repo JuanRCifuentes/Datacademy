@@ -16,6 +16,7 @@
   - [Tu mejor herramienta: La consola](#tu-mejor-herramienta-la-consola)
   - [Explorando Python: Operadores aritméticos](#explorando-python-operadores-aritméticos)
   - [Que es una variable](#que-es-una-variable)
+    - [COMANDO ASIGNAR](#comando-asignar)
   - [Sesión en vivo - Semana 1](#sesión-en-vivo---semana-1)
 
 ## ¿Que es ciencia de datos y big data? ¿Como afectan a mi negocio?
